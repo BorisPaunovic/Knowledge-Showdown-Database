@@ -62,13 +62,11 @@ To set up the Knowledge Showdown Database on your MySQL Server, follow these ste
 1. Connect to your MySQL Server using your preferred client or MySQL Workbench.
 2. Create a new database using the provided SQL commands in the `create_database.sql` file.
 
-Execute the SQL scripts in the `scripts` folder in the following order:
+Execute the SQL scripts in the `Knowledge Showdown Database Scripts` folder in the following order:
 
-- `create_tables.sql`: Creates the necessary tables in the database.
-- `create_indexes.sql`: Creates indexes for optimized querying and performance.
-- `create_constraints.sql`: Sets up the necessary constraints for data integrity.
-- `create_views.sql`: Defines views for easier data retrieval and reporting.
-- `create_procedures.sql`: Creates stored procedures for various database operations.
+- 1. `primary tables`: Creates the necessary tables in the database.
+- 2. `joining tables`: Creates indexes for optimized querying and performance.
+ 
 
 The database is now set up and ready to be used by the Knowledge Showdown application.
 

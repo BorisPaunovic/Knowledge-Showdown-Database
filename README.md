@@ -3,7 +3,8 @@
 Welcome to the Knowledge Showdown Database repository! This repository contains the SQL scripts and database schema for implementing a comprehensive knowledge showdown system. The database is designed to store and manage data related to avatars, countries, average scores, categories, questions, users, games, responses, answers, and various roles and permissions. The schema consists of 16 tables, including 11 primary tables and 5 joining tables.
 
 
-
+<br>
+<br>
 
 ![Knowledge Showdown Database](https://github.com/BorisPaunovic/Knowledge-Showdown-Database/assets/119711363/e9b2c448-0c60-47af-b1ca-1c8b450eae6d)
 

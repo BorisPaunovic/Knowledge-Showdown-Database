@@ -64,8 +64,8 @@ To set up the Knowledge Showdown Database on your MySQL Server, follow these ste
 
 Execute the SQL scripts in the `Knowledge Showdown Database Scripts` folder in the following order:
 
-- 1. `primary tables`: Creates the necessary tables in the database.
-- 2. `joining tables`: Creates indexes for optimized querying and performance.
+ 1. `primary tables`: Creates the necessary tables in the database.
+ 2. `joining tables`: Creates indexes for optimized querying and performance.
  
 
 The database is now set up and ready to be used by the Knowledge Showdown application.
